@@ -31,3 +31,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 3. Better data modeling so users can keep track of their labels, and we can store more shipment/address/parcel data
 4. Better component encapsulation/decoupling (especially when it comes to deciding on server/client components)
 5. Loading/Error states
+6. More strict typescript coverage
+7. Unit tests
